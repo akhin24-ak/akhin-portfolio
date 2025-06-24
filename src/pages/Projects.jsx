@@ -11,13 +11,13 @@ const Projects = () => {
     },
     {
       title: "RENE Foundation – NGO Website",
-      description: "A responsive and accessible website built for RENE Foundation, a non-profit organization focused on rural welfare and entrepreneurship development. Developed using HTML, CSS, JavaScript, and Bootstrap, with integrated contact functionality via EmailJS.",
+      description: "A responsive and accessible website built for RENE Foundation, a non-profit organization focused on rural welfare and entrepreneurship development. Developed using HTML, CSS, JavaScript, and Bootstrap.",
       technologies: ["HTML", "CSS", "JavaScript"],
       liveDemo: "https://renefoundation.org/"
     },
     {
       title: "Personal Portfolio",
-      description: "A responsive portfolio website built with React and Vite to showcase projects, skills, and experience. Features smooth animations, a typing effect, and a contact form via EmailJS.",
+      description: "A responsive portfolio website built with React and Vite to showcase projects, skills, and experience. Features smooth animations, a typing effect.",
       technologies: ["React", "Vite", "JavaScript", "CSS"],
       github: "https://github.com/akhin24-ak/akhin-portfolio",
       liveDemo: "https://akhin24-ak.github.io/akhin-portfolio/"
