@@ -4,24 +4,31 @@ import '../styles/Projects.css'
 const Projects = () => {
   const projects = [
     {
-      title: " Eatzo – Food Ordering System",
-      description: "A full-stack food ordering platform built with Django. Eatzo enables users to browse food items, register/login securely, and place orders online. Admins can manage menus, orders, and users through Django's built-in admin panel.",
-      technologies: ["Django", "Python", "SQLite", "HTML","CSS","JavaScript"],
-      github: "https://github.com/akhin24-ak/eatzo"
+title: "ML-Based Loan Risk Evaluation System",
+description: "A full-stack loan management platform built using React and FastAPI. Users can apply for loans online, while a machine learning model predicts loan risk scores. Secure authentication is implemented using JWT and bcrypt, and admins can review applications and visualize analytics using charts.",
+technologies: ["React", "FastAPI", "Python", "SQL", "Machine Learning", "JWT", "bcrypt", "Recharts"],
+github: "https://github.com/akhin24-ak/loan-management-system"
+
     },
-    {
+   {
+  title: "Personal Portfolio",
+  description: "A responsive single-page personal portfolio website built using React and Vite. The application showcases my profile, skills, education, and projects using a clean component-based architecture. It features dynamic page rendering using React state, a light/dark theme toggle, and a contact form for user interaction.",
+  technologies: [
+    "React",
+    "Vite",
+    "JavaScript",
+    "CSS",
+  ],
+  github: "https://github.com/akhin24-ak/akhin-portfolio",
+  liveDemo: "https://akhin24-ak.github.io/akhin-portfolio/"
+},
+
+     {
       title: "RENE Foundation – NGO Website",
       description: "A responsive and accessible website built for RENE Foundation, a non-profit organization focused on rural welfare and entrepreneurship development. Developed using HTML, CSS, JavaScript, and Bootstrap.",
       technologies: ["HTML", "CSS", "JavaScript"],
       liveDemo: "https://renefoundation.org/"
     },
-    {
-      title: "Personal Portfolio",
-      description: "A responsive portfolio website built with React and Vite to showcase projects, skills, and experience. Features smooth animations, a typing effect.",
-      technologies: ["React", "Vite", "JavaScript", "CSS"],
-      github: "https://github.com/akhin24-ak/akhin-portfolio",
-      liveDemo: "https://akhin24-ak.github.io/akhin-portfolio/"
-    }
   ]
 
   return (

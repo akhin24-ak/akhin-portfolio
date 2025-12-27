@@ -3,10 +3,9 @@ import '../styles/About.css'
 
 const About = () => {
   const skills = [
-    'Python - Django',
+    'Python - FastAPI',
     'React + Vite',
     'HTML',
-    'Javascript',
     'CSS',
     'MySQL'
   ]
