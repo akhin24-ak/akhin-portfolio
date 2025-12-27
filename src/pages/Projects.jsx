@@ -5,7 +5,7 @@ const Projects = () => {
   const projects = [
     {
 title: "ML-Based Loan Risk Evaluation System",
-description: "A full-stack loan management platform built using React and FastAPI. Users can apply for loans online, while a machine learning model predicts loan risk scores. Secure authentication is implemented using JWT and bcrypt, and admins can review applications and visualize analytics using charts.",
+description: "A full-stack loan risk assessment platform built using React and FastAPI. Users can apply for loans online, while a machine learning model predicts loan risk scores. Secure authentication is implemented using JWT and bcrypt, and admins can review applications and visualize analytics using charts.",
 technologies: ["React", "FastAPI", "Python", "SQL", "Machine Learning", "JWT", "bcrypt", "Recharts"],
 github: "https://github.com/akhin24-ak/loan-management-system"
 
