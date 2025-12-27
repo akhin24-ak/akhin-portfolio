@@ -36,11 +36,9 @@ const About = () => {
         <div className="about-content">
           <div className="about-text">
 <p>
-  I’m a web development enthusiast with a strong interest in building functional and user-friendly web applications. While I’m still growing my experience, I enjoy working across both frontend and backend technologies and constantly seek opportunities to learn and improve.
-</p>
+I’m an MCA student and web development enthusiast with a strong interest in building functional and user-friendly applications. While I’m still growing my experience, I enjoy working across both frontend and backend technologies, using React (Vite) for UI development and Python with FastAPI for backend services, along with MySQL for database management.</p>
 <p>
-  Outside of development, I like exploring new tools, experimenting with personal projects, and staying up to date with the latest in tech. I believe in learning by doing and continuously building practical skills through real-world application.
-</p>
+Outside of development, I enjoy building and improving personal projects, exploring new tools, and understanding how complete systems work end to end. I strongly believe in learning by doing, taking ownership of tasks, and continuously developing practical skills through real-world application and collaboration.</p>
           </div>
 
           <div className="skills-section">
